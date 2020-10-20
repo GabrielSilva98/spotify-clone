@@ -1,4 +1,4 @@
 # spotify-clone
 
-[Live demo](hhttp://spotif-clone.surge.sh/)
+[Live demo](http://spotif-clone.surge.sh/ "Clique e acesse agora!")
 
